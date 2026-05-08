@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=9745F5&center=true&vCenter=true&width=650&lines=Hey+there,+I'm+Himasha+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full-Stack+%7C+Web+Developer" alt="Himasha Sandeepani">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=9745F5&center=true&vCenter=true&width=650&lines=Hey+there,+I'm+Himasha+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full-Stack+%7C+Web+Developer" alt="Animated text showing Himasha, Software Engineering Undergraduate, Full-Stack Web Developer">
 </div>
 
 <p align="center">
@@ -19,7 +19,11 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 ## 🚀 Projects
 
 ### 1) ReadVibe: AI-Powered Book Marketplace and Community Platform
-**Description:** A full-stack book marketplace and community platform for browsing, ordering, reviews, discussions, role-based access, and AI-powered recommendations with periodic model retraining.  
+**Description:** A full-stack book marketplace and community platform featuring:  
+- Browsing, search, carts, wishlists, and orders  
+- Reviews and community discussions  
+- Role-based access for users, stock managers, and admins  
+- AI-powered recommendations with periodic model retraining  
 **Technologies:** React, Vite, React Router, Redux Toolkit, Bootstrap, React Bootstrap  
 **Languages:** JavaScript, HTML, CSS
 
@@ -113,8 +117,8 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimashaSandeepani&show_icons=true&hide_border=true&theme=radical" width="48%" alt="github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaSandeepani&layout=compact&hide_border=true&theme=radical" width="40%" alt="top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=HimashaSandeepani&show_icons=true&hide_border=true&theme=radical" width="48%" alt="GitHub contribution statistics for HimashaSandeepani">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaSandeepani&layout=compact&hide_border=true&theme=radical" width="40%" alt="Most used programming languages for HimashaSandeepani">
 </div>
 
 ## 🌍 Find Me Around The Web
