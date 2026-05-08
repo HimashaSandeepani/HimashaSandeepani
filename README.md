@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Yaddehige Himasha Sandeepani
 
-<!--
-**HimashaSandeepani/HimashaSandeepani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University) who enjoys web development and is interested in full-stack developer roles.
 
-Here are some ideas to get you started:
+## About Me
+- Final-year student in the BSc (Hons) Software Engineering program
+- Interested in full-stack development
+- Enjoys web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Frontend: React, HTML, CSS, JavaScript, Bootstrap
+- Backend: Node.js, Express.js, PHP
+- Databases: SQL, PostgreSQL
+- Tools: Docker, Postman
+- Languages: C#, C, Python
