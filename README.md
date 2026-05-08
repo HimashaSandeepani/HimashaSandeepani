@@ -29,6 +29,9 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 ## 💻 Tech Stack
 
 ### Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C%23](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -64,8 +67,17 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### AI/ML & Data
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0F172A?style=flat)
+![Groq LLM](https://img.shields.io/badge/Groq%20LLM-FF4F00?style=flat)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=000)
+![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
@@ -75,15 +87,17 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimashaSandeepani&theme=radical&hide_border=true" width="49%" alt="GitHub streak statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaSandeepani&layout=compact&hide_border=true&theme=radical" width="49%" alt="Most used programming languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimashaSandeepani&show_icons=true&hide_border=true&theme=radical" width="49%" alt="GitHub statistics">
+  <img src="https://github-readme-streak-stats-bice-pi.vercel.app/?user=HimashaSandeepani&theme=radical&hide_border=true&layout=compact" width="49%" alt="streak-stats">
+  <img src="https://github-readme-stat-self.vercel.app/api/top-langs/?username=HimashaSandeepani&theme=radical&hide_border=true&layout=compact" width="35%" alt="top languages">
+  <img src="https://github-readme-stat-self.vercel.app/api?username=HimashaSandeepani&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" width="50%" alt="github stats">
 </div>
 
 ## 🌍 Find Me Around The Web
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/himasha-sandeepani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/HimashaSandeepani"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:himashasandeepani07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <div align="center">
