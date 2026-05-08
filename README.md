@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/HimashaSandeepani"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://komarev.com/ghpvc/?username=HimashaSandeepani&color=blueviolet&style=flat&abbreviated=true" alt="profile views">
 </p>
 
 ## 🧠 About Me
@@ -16,61 +15,20 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 - Always learning better architecture, deployment, and collaboration workflows
 - Open to collaborations on impactful, user-focused projects
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 1) ReadVibe: AI-Powered Book Marketplace and Community Platform
-**Description:** A book marketplace and community platform featuring:  
-- Browsing, search, carts, wishlists, and orders  
-- Reviews and community discussions  
-- Role-based access for users, stock managers, and admins  
-- AI-powered recommendations with periodic model retraining  
-**Technologies:** React, Vite, React Router, Redux Toolkit, Bootstrap, React Bootstrap  
-**Languages:** JavaScript, HTML, CSS
-
-### 2) Automated Restaurant Feedback Agent — SteamNoodles
-**Description:** Multi-agent system that analyzes restaurant reviews, generates sentiment-aware responses, and visualizes sentiment trends across date ranges.  
-**Technologies:** LlamaIndex, Groq LLM, Hugging Face Transformers, Hugging Face Embeddings, pandas, matplotlib, Jupyter Notebook/Colab, Kaggle dataset  
-**Languages:** Python, Markdown
-
-### 3) Concept.Store — 3D Room Designer
-**Description:** Interactive 2D/3D room planner with furniture placement, rotation, customization, layout saving, and screenshot export.  
-**Technologies:** React, TypeScript, Vite, Three.js, React Three Fiber, React Three Drei, Tailwind CSS, React Router, Zustand, Lucide React, react-colorful, file-saver  
-**Languages:** TypeScript, JavaScript, HTML, CSS
-
-### 4) Cinema Booking System (CineBook)
-**Description:** Multi-cinema ticket booking platform with real-time seat selection, authentication, payments, reviews, and admin management.  
-**Technologies:** React 18, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.io, JWT, bcrypt, React Query, React Router, PayPal SDK, Docker, Docker Compose, Jest, Supertest, Axios  
-**Languages:** TypeScript, JavaScript, HTML, CSS, JSON
-
-### 5) Dental Booking System with Real-Time Availability and Payment Integration
-**Description:** Full-stack dental appointment system with real-time availability, secure payments, and an admin dashboard for managing doctors and bookings.  
-**Technologies:** React, Vite, Node.js, Express.js, MongoDB, Mongoose, WebSockets, Stripe, Docker, Docker Compose, GitHub Actions  
-**Languages:** JavaScript, HTML, CSS
-
-### 6) Home Makers
-**Description:** Responsive multi-page website for a home design and renovation brand, featuring gallery, portfolio, contact, and shop pages.  
-**Technologies:** HTML5, CSS3, JavaScript, Bootstrap 5, Font Awesome, Google Fonts  
-**Languages:** HTML, CSS, JavaScript
-
-### 7) Red Bull Energy Drinks Website
-**Description:** Static multi-page site inspired by the Red Bull brand with Home, About, Gallery, and Contact pages.  
-**Technologies:** HTML5, CSS3, Bootstrap 5, Font Awesome, Google Fonts  
-**Languages:** HTML, CSS, JavaScript
-
-### 8) ABC Cinema Website
-**Description:** Java-based cinema booking app with online payments, feedback, and email/payment notifications plus admin management.  
-**Technologies:** Java, JSP, Servlets, HTML, CSS, SQL, MySQL, JDBC, Jakarta Servlet API, PayPal SDK, JavaMail  
-**Languages:** Java, HTML, CSS, SQL
-
-### 9) Recipe App
-**Description:** Flutter recipe application with Firebase authentication, cloud storage, recipe posting, media support, and user profiles.  
-**Technologies:** Flutter, Firebase, Cloud Firestore, Firebase Authentication, Firebase Storage, Provider, SharedPreferences, Image Picker, Material Design  
-**Languages:** Dart, Kotlin, Swift, Gradle, XML
-
-### 10) GrowSmart — Your Gardening Assistant
-**Description:** Gardening and sustainability platform with marketplace, chatroom, virtual assistant, profiles, and payment/email notifications.  
-**Technologies:** HTML, CSS, JavaScript, PHP, Node.js, Express.js, Socket.io, Bootstrap, MySQL, XAMPP, phpMyAdmin, PHPMailer, Composer, Stripe, PayPal  
-**Languages:** HTML, CSS, JavaScript, PHP, SQL
+| Project | Description | Tech |
+|---------|-------------|------|
+| **ReadVibe: AI-Powered Book Marketplace** | Marketplace and community platform with reviews, discussions, role-based access, and AI recommendations. | `React` `Vite` `Redux Toolkit` `Bootstrap` |
+| **SteamNoodles: Restaurant Feedback Agent** | Multi-agent system for sentiment-aware review replies and trend visualization. | `LlamaIndex` `Groq LLM` `Hugging Face` `pandas` `matplotlib` |
+| **Concept.Store — 3D Room Designer** | 2D/3D room planner with furniture placement, customization, and exports. | `React` `TypeScript` `Three.js` `R3F` `Tailwind` |
+| **Cinema Booking System (CineBook)** | Multi-cinema booking with real-time seat selection, payments, and admin tools. | `React` `TypeScript` `Node.js` `MongoDB` `Socket.io` |
+| **Dental Booking System** | Real-time appointment booking with payments and admin dashboard. | `React` `Node.js` `MongoDB` `Stripe` `WebSockets` |
+| **Home Makers** | Responsive multi-page site for home design and renovation services. | `HTML5` `CSS3` `JavaScript` `Bootstrap` |
+| **Red Bull Energy Drinks Website** | Static multi-page brand-inspired website with gallery and contact pages. | `HTML5` `CSS3` `Bootstrap` |
+| **ABC Cinema Website** | Java-based cinema booking app with payments and admin management. | `Java` `JSP` `Servlets` `MySQL` `PayPal` |
+| **Recipe App** | Flutter recipe app with Firebase auth, storage, and media posts. | `Flutter` `Firebase` `Provider` `SharedPreferences` |
+| **GrowSmart — Your Gardening Assistant** | Gardening platform with marketplace, chatroom, and payment/email notifications. | `PHP` `Node.js` `MySQL` `Socket.io` `Stripe` |
 
 ## 💻 Tech Stack
 
@@ -126,3 +84,7 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 <p align="center">
   <a href="https://github.com/HimashaSandeepani"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HimashaSandeepani&color=blueviolet&style=flat&abbreviated=true" alt="Profile views">
+</div>
