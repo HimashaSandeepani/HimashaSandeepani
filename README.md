@@ -1,39 +1,39 @@
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=28&pause=800&color=9745F5&center=true&vCenter=true&width=650&lines=Hey+there,+I'm+Himasha+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full-Stack+%7C+Web+Developer" alt="Animated welcome banner">
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=28&pause=800&color=9745F5&center=true&vCenter=true&width=700&lines=Hey+there,+I'm+Himasha+%F0%9F%91%8B;Software+Engineering+Undergraduate;Web+Developer+%7C+Docker+Enthusiast" alt="Animated welcome banner">
 </div>
 
 ## 🧠 About Me
 
-Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University) focused on web development and full-stack roles. I enjoy building practical applications and understanding how frontend, backend, and databases work together.
+Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University) focused on web development and practical full-stack projects. I enjoy building user-friendly applications and learning how the frontend, backend, and database layers work together.
 
-- Interested in full-stack development and real-world problem solving
-- Enjoys crafting clean UI with reliable backend services
-- Always learning better architecture, deployment, and collaboration workflows
-- Open to collaborations on impactful, user-focused projects
+- Interested in web development and Docker
+- Enjoys building clean interfaces with reliable backend services
+- Works across product features, deployment, and collaboration workflows
+- Open to projects that solve real problems for users
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **ReadVibe: AI-Powered Book Marketplace** | Marketplace and community platform with reviews, discussions, role-based access, and AI recommendations. | `React` `Vite` `Redux Toolkit` `Bootstrap` `AI/ML` |
-| **SteamNoodles: Restaurant Feedback Agent** | Multi-agent system for sentiment-aware review replies and trend visualization. | `LlamaIndex` `Groq LLM` `Hugging Face` `pandas` `matplotlib` |
-| **Concept.Store — 3D Room Designer** | 2D/3D room planner with furniture placement, customization, and exports. | `React` `TypeScript` `Three.js` `R3F` `Tailwind` |
-| **Cinema Booking System (CineBook)** | Multi-cinema booking with real-time seat selection, payments, and admin tools. | `React` `TypeScript` `Node.js` `MongoDB` `Socket.io` |
-| **Dental Booking System** | Real-time appointment booking with payments and admin dashboard. | `React` `Node.js` `MongoDB` `Stripe` `WebSockets` |
-| **Home Makers** | Responsive multi-page site for home design and renovation services. | `HTML5` `CSS3` `JavaScript` `Bootstrap` |
-| **Red Bull Energy Drinks Website** | Static multi-page brand-inspired website with gallery and contact pages. | `HTML5` `CSS3` `Bootstrap` |
-| **ABC Cinema Website** | Java-based cinema booking app with payments and admin management. | `Java` `JSP` `Servlets` `MySQL` `PayPal` |
-| **Recipe App** | Flutter recipe app with Firebase auth, storage, and media posts. | `Flutter` `Firebase` `Provider` `SharedPreferences` |
-| **GrowSmart — Your Gardening Assistant** | Gardening platform with marketplace, chatroom, and payment/email notifications. | `PHP` `Node.js` `MySQL` `Socket.io` `Stripe` |
+| **ReadVibe: AI-Powered Book Marketplace and Community Platform** | Full-stack book marketplace and community platform with browsing, search, carts, wishlists, orders, reviews, role-based access, AI recommendations, and model retraining from interaction data. | `React` `Vite` `React Router` `Redux Toolkit` `Bootstrap` `React Bootstrap` `Node.js` `Express.js` `MongoDB` `JWT` `Docker` |
+| **SteamNoodles: Automated Restaurant Feedback Agent** | Multi-agent AI system that analyzes customer reviews, generates sentiment-aware replies, and visualizes review trends across date ranges. | `LlamaIndex` `Groq LLM` `Hugging Face Transformers` `Hugging Face Embeddings` `pandas` `matplotlib` `Google Colab` `Jupyter Notebook` |
+| **Concept.Store — 3D Room Designer** | Interactive 2D and 3D room planner for placing, rotating, and customizing furniture with layout saving and screenshot export. | `React` `TypeScript` `Vite` `Three.js` `React Three Fiber` `React Three Drei` `Tailwind CSS` `React Router` `Zustand` |
+| **Cinema Booking System / CineBook** | Full-stack multi-cinema booking platform with real-time seat selection, authentication, online payments, reviews, and admin management. | `React 18` `TypeScript` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Socket.io` `JWT` `React Query` `Docker` `Docker Compose` |
+| **Dental Booking System** | Real-time dental appointment booking system with availability updates, secure payments, and an admin dashboard. | `React` `Vite` `Node.js` `Express.js` `MongoDB` `Mongoose` `WebSockets` `Stripe` `Docker` `GitHub Actions` |
+| **Home Makers** | Responsive multi-page website for a home design and renovation brand with gallery, portfolio, contact, and shop pages. | `HTML5` `CSS3` `JavaScript` `Bootstrap 5` `Font Awesome` `Google Fonts` |
+| **Red Bull Energy Drinks Website** | Static multi-page brand-inspired website with home, about, gallery, and contact pages. | `HTML5` `CSS3` `Bootstrap 5` `Font Awesome` `Google Fonts` |
+| **ABC Cinema Website** | Java-based cinema booking web app with ticket booking, PayPal payments, feedback, and email notifications. | `Java` `JSP` `Servlets` `HTML` `CSS` `SQL` `MySQL` `JDBC` `Jakarta Servlet API` `PayPal SDK` `JavaMail` |
+| **Recipe App** | Flutter recipe app with Firebase-backed authentication, cloud storage, recipe posting, and user profiles. | `Flutter` `Firebase` `Cloud Firestore` `Firebase Authentication` `Firebase Storage` `Provider` `SharedPreferences` `Image Picker` `Material Design` |
+| **GrowSmart — Your Gardening Assistant** | Web-based gardening platform with buying and selling, public chat, virtual guidance, profiles, and payment/email notifications. | `HTML` `CSS` `JavaScript` `PHP` `Node.js` `Express.js` `Socket.io` `Bootstrap` `MySQL` `XAMPP` `phpMyAdmin` `PHPMailer` `Stripe` `PayPal` |
 
 ## 💻 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
@@ -42,40 +42,42 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 ### Frontend & Mobile
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-41E0FD?style=flat&logo=react&logoColor=000000)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/R3F-000000?style=flat)
+![React Three Drei](https://img.shields.io/badge/Drei-111827?style=flat)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 
 ### Backend & Real-time
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)
+![PHPMailer](https://img.shields.io/badge/PHPMailer-00546B?style=flat)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-### AI/ML & Data
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0F172A?style=flat)
-![Groq LLM](https://img.shields.io/badge/Groq%20LLM-FF4F00?style=flat)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=000)
-![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimashaSandeepani&show_icons=true&hide_border=true&theme=radical" width="49%" alt="GitHub contribution statistics">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimashaSandeepani&theme=radical&hide_border=true" width="49%" alt="GitHub streak statistics">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaSandeepani&layout=compact&hide_border=true&theme=radical" width="49%" alt="Most used programming languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=HimashaSandeepani&show_icons=true&hide_border=true&theme=radical" width="49%" alt="GitHub statistics">
 </div>
 
 ## 🌍 Find Me Around The Web
