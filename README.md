@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=9745F5&center=true&vCenter=true&width=650&lines=Hey+there,+I'm+Himasha+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full-Stack+%7C+Web+Developer" alt="Animated text showing Himasha, Software Engineering Undergraduate, Full-Stack Web Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=9745F5&center=true&vCenter=true&width=650&lines=Hey+there,+I'm+Himasha+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full-Stack+%7C+Web+Developer" alt="Animated text showing Himasha 👋, Software Engineering Undergraduate, Full-Stack Web Developer">
 </div>
 
 <p align="center">
@@ -19,7 +19,7 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 ## 🚀 Projects
 
 ### 1) ReadVibe: AI-Powered Book Marketplace and Community Platform
-**Description:** A full-stack book marketplace and community platform featuring:  
+**Description:** A book marketplace and community platform featuring:  
 - Browsing, search, carts, wishlists, and orders  
 - Reviews and community discussions  
 - Role-based access for users, stock managers, and admins  
