@@ -1,5 +1,6 @@
+<h1 align="center">Hi 👋, I'm Yaddehige Himasha Sandeepani</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=28&pause=800&color=9745F5&center=true&vCenter=true&width=700&lines=Hey+there,+I'm+Himasha+%F0%9F%91%8B;Software+Engineering+Undergraduate;Web+Developer+%7C+Docker+Enthusiast" alt="Animated welcome banner">
+  <img src="https://readme-typing-svg.vercel.app?size=20&duration=4000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Software+Engineering+Undergraduate;Web+Developer+%7C+Docker+Enthusiast" alt="Animated welcome banner">
 </div>
 
 ## 🧠 About Me
@@ -29,11 +30,11 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 ## 💻 Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C%23](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C%23](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![C%2B%2B](https://img.shields.io/badge/c%2B%2B-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -67,7 +68,7 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### AI/ML & Data
@@ -87,17 +88,17 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HimashaSandeepani&theme=radical&hide_border=true&layout=compact" width="49%" alt="streak-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaSandeepani&theme=radical&hide_border=true&layout=compact" width="35%" alt="top languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimashaSandeepani&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" width="50%" alt="github stats">
+  <img src="https://github-readme-streak-stats-bice-pi.vercel.app/?user=HimashaSandeepani&theme=radical&hide_border=true&layout=compact" width="49%" alt="streak-stats">
+  <img src="https://github-readme-stat-self.vercel.app/api/top-langs/?username=HimashaSandeepani&theme=radical&hide_border=true&layout=compact" width="35%" alt="top languages">
+  <img src="https://github-readme-stat-self.vercel.app/api?username=HimashaSandeepani&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" width="50%" alt="github stats">
 </div>
 
 ## 🌍 Find Me Around The Web
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/himasha-sandeepani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/HimashaSandeepani"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:himashasandeepani07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/himasha-sandeepani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:himashasandeepani07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 <div align="center">
