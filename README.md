@@ -87,7 +87,7 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HimashaSandeepani&theme=radical&hide_border=true" width="49%" alt="streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=HimashaSandeepani&theme=radical&hide_border=true&layout=compact" width="49%" alt="streak-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaSandeepani&theme=radical&hide_border=true&layout=compact" width="35%" alt="top languages">
   <img src="https://github-readme-stats.vercel.app/api?username=HimashaSandeepani&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" width="50%" alt="github stats">
 </div>
