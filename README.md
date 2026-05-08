@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=9745F5&center=true&vCenter=true&width=650&lines=Hey+there,+I'm+Himasha+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full-Stack+%7C+Web+Developer" alt="Hey there, I'm Himasha — Software Engineering Undergraduate and Full-Stack Web Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=9745F5&center=true&vCenter=true&width=650&lines=Hey+there,+I'm+Himasha+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full-Stack+%7C+Web+Developer" alt="Himasha - Software Engineering Student and Full-Stack Developer">
 </div>
 
 ## 🧠 About Me
@@ -71,8 +71,8 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimashaSandeepani&show_icons=true&hide_border=true&theme=radical" width="49%" alt="GitHub stats for HimashaSandeepani">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaSandeepani&layout=compact&hide_border=true&theme=radical" width="49%" alt="Top languages for HimashaSandeepani">
+  <img src="https://github-readme-stats.vercel.app/api?username=HimashaSandeepani&show_icons=true&hide_border=true&theme=radical" width="49%" alt="GitHub contribution statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaSandeepani&layout=compact&hide_border=true&theme=radical" width="49%" alt="Most used programming languages">
 </div>
 
 ## 🌍 Find Me Around The Web
