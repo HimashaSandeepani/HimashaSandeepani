@@ -76,7 +76,7 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HimashaSandeepani&show_icons=true&hide_border=true&theme=radical" width="48%" alt="GitHub contribution statistics for HimashaSandeepani">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaSandeepani&layout=compact&hide_border=true&theme=radical" width="40%" alt="Most used programming languages for HimashaSandeepani">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaSandeepani&layout=compact&hide_border=true&theme=radical" width="48%" alt="Most used programming languages for HimashaSandeepani">
 </div>
 
 ## 🌍 Find Me Around The Web
