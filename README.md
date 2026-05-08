@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=9745F5&center=true&vCenter=true&width=650&lines=Hey+there,+I'm+Himasha+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full-Stack+%7C+Web+Developer" alt="Himasha - Software Engineering Student and Full-Stack Developer">
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=28&pause=800&color=9745F5&center=true&vCenter=true&width=650&lines=Hey+there,+I'm+Himasha+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full-Stack+%7C+Web+Developer" alt="Himasha - Software Engineering Student and Full-Stack Developer">
 </div>
 
 ## 🧠 About Me
@@ -15,7 +15,7 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **ReadVibe: AI-Powered Book Marketplace** | Marketplace and community platform with reviews, discussions, role-based access, and AI recommendations. | `React` `Vite` `Redux Toolkit` `Bootstrap` |
+| **ReadVibe: AI-Powered Book Marketplace** | Marketplace and community platform with reviews, discussions, role-based access, and AI recommendations. | `React` `Vite` `Redux Toolkit` `Bootstrap` `AI/ML` |
 | **SteamNoodles: Restaurant Feedback Agent** | Multi-agent system for sentiment-aware review replies and trend visualization. | `LlamaIndex` `Groq LLM` `Hugging Face` `pandas` `matplotlib` |
 | **Concept.Store — 3D Room Designer** | 2D/3D room planner with furniture placement, customization, and exports. | `React` `TypeScript` `Three.js` `R3F` `Tailwind` |
 | **Cinema Booking System (CineBook)** | Multi-cinema booking with real-time seat selection, payments, and admin tools. | `React` `TypeScript` `Node.js` `MongoDB` `Socket.io` |
