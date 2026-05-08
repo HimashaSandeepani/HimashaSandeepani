@@ -15,7 +15,7 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **ReadVibe: AI-Powered Book Marketplace** | Marketplace and community platform with reviews, discussions, role-based access, and AI recommendations. | `React` `Vite` `Redux Toolkit` `Bootstrap` |
+| **ReadVibe: AI-Powered Book Marketplace** | Marketplace and community platform with reviews, discussions, role-based access, and AI recommendations. | `React` `Vite` `Redux Toolkit` `Bootstrap` `Custom ML Recommender` |
 | **SteamNoodles: Restaurant Feedback Agent** | Multi-agent system for sentiment-aware review replies and trend visualization. | `LlamaIndex` `Groq LLM` `Hugging Face` `pandas` `matplotlib` |
 | **Concept.Store — 3D Room Designer** | 2D/3D room planner with furniture placement, customization, and exports. | `React` `TypeScript` `Three.js` `R3F` `Tailwind` |
 | **Cinema Booking System (CineBook)** | Multi-cinema booking with real-time seat selection, payments, and admin tools. | `React` `TypeScript` `Node.js` `MongoDB` `Socket.io` |
@@ -59,10 +59,13 @@ Final-year BSc (Hons) Software Engineering student at NSBM (Plymouth University)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### AI/ML & Data
-- LlamaIndex, Groq LLM
-- Hugging Face Transformers & Embeddings
-- pandas, matplotlib
-- Jupyter Notebook / Google Colab
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0F172A?style=flat)
+![Groq LLM](https://img.shields.io/badge/Groq%20LLM-FF4F00?style=flat)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=000)
+![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
